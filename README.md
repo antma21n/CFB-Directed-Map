@@ -14,4 +14,4 @@ The CFB Directed Map shows all FBS college football teams in a map and connects 
 
 ## Future Works
 - Fix directed graph and make it more visually pleasing
-- Update for the rest of the season and future seaons
+- Update for the rest of the season and future seaons 
